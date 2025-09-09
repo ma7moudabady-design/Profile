@@ -1,4 +1,4 @@
-# محمود أحمد محمد
+# Profile
 
 **Accounting Student & Aspiring CMA | Finance • Data Analysis • ERP Systems**
 
@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-طالب في السنة الرابعة بكلية التجارة – جامعة أسوان، وطموحي أكون CMA معتمد. متمكن في المحاسبة المالية، تحليل البيانات، أنظمة المؤسسات (ERP)، والحوسبة السحابية. شغوف بتحويل البيانات المالية لمعلومات قيمة وتطبيق الحلول التقنية في القطاعات المالية والمصرفية.
+طالب في السنة الرابعة بكلية التجارة – جامعة بنها، وطموحي أكون CMA معتمد. متمكن في المحاسبة المالية، تحليل البيانات، أنظمة المؤسسات (ERP)، والحوسبة السحابية. شغوف بتحويل البيانات المالية لمعلومات قيمة وتطبيق الحلول التقنية في القطاعات المالية والمصرفية.
 
 ---
 
@@ -30,9 +30,8 @@
 ---
 
 ## Achievements
-- تقدير أوّل على الدفعة – كلية التجارة، جامعة أسوان (2025)  
+- تقدير امتياز – كلية التجارة، جامعة بنها (2026)  
 - Side Projects: Financial Models & ERP Implementation Analysis  
-- مقدم Roadmap تعليمي شخصي لتطوير المهارات المالية
 
 ---
 
@@ -40,8 +39,6 @@
 - **Financial & Accounting:** Financial Reporting • Budgeting • Liquidity Management  
 - **Technical:** Advanced Excel (Pivot/VLOOKUP) • Python Basics • ERP Systems (SAP/Brightness) • Cloud (AWS)  
 - **Soft Skills:** Presentation • Communication • Problem Solving • Leadership  
-- **Languages:** العربية (لغة الأم)، الإنجليزية (جيد جدًا)
+- **Languages:** العربية (لغة الأم)، الإنجليزية (جيد)
 
 ---
-
-© 2025 محمود أحمد محمد
